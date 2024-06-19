@@ -13,3 +13,6 @@ print("Hola GIT y GitHub en       Fundamentos rama2")
 #git push origin master: Subir cambios al repositorio
 #git branch: Ver las ramas
 #git switch -c "nombre_rama": Crear una rama
+#git switch "nombre_rama": Cambiar de rama
+#git checkout "nombre_rama": Cambiar de rama
+#git branch -d "nombre_rama": Eliminar una rama
